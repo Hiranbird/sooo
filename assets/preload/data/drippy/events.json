@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stage",
+		"player1": "dripMick",
+		"player2": "dripMick",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"0.10 "
+					]
+				]
+			],
+			[
+				23200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				25700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				28300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				29600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				30900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				33500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				38600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				41100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				43800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				46100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			],
+			[
+				48800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-gone",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "drippy"
+	}
+}

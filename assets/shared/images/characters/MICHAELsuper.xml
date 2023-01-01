@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MICHAELsuper.png">
+<SubTexture name="michael DOWN instance 0000" x="773" y="1820" width="769" height="547" frameX="-9" frameY="-6" frameWidth="792" frameHeight="554" />
+<SubTexture name="michael DOWN instance 0001" x="0" y="1820" width="773" height="554" frameX="-6" frameY="0" frameWidth="792" frameHeight="554" />
+<SubTexture name="michael IDLE instance 0000" x="884" y="2374" width="590" height="516" frameX="0" frameY="-28" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0001" x="1474" y="2374" width="585" height="515" frameX="-6" frameY="-30" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0002" x="1563" y="1242" width="576" height="523" frameX="-15" frameY="-23" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0003" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="-1" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0004" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0005" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0006" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0007" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0008" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael IDLE instance 0009" x="2226" y="1120" width="567" height="546" frameX="-14" frameY="0" frameWidth="616" frameHeight="573" />
+<SubTexture name="michael LEFT instance 0000" x="0" y="1242" width="783" height="578" frameX="0" frameY="0" frameWidth="800" frameHeight="578" />
+<SubTexture name="michael LEFT instance 0001" x="783" y="1242" width="780" height="577" frameX="-10" frameY="-1" frameWidth="800" frameHeight="578" />
+<SubTexture name="michael RIGHT instance 0000" x="2226" y="564" width="681" height="556" frameX="-57" frameY="-7" frameWidth="738" frameHeight="564" />
+<SubTexture name="michael RIGHT instance 0001" x="2226" y="0" width="685" height="564" frameX="-32" frameY="0" frameWidth="738" frameHeight="564" />
+<SubTexture name="michael SHOOT instance 0000" x="1542" y="1820" width="825" height="532" frameX="-7" frameY="-97" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael SHOOT instance 0001" x="0" y="2374" width="884" height="529" frameX="-3" frameY="-100" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael SHOOT instance 0002" x="0" y="0" width="569" height="630" frameX="-24" frameY="0" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael SHOOT instance 0003" x="569" y="0" width="561" height="624" frameX="-5" frameY="-5" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael SHOOT instance 0004" x="1130" y="0" width="551" height="619" frameX="-2" frameY="-10" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael SHOOT instance 0005" x="1681" y="0" width="545" height="603" frameX="0" frameY="-26" frameWidth="887" frameHeight="630" />
+<SubTexture name="michael UP instance 0000" x="0" y="630" width="748" height="612" frameX="-5" frameY="-1" frameWidth="777" frameHeight="613" />
+<SubTexture name="michael UP instance 0001" x="748" y="630" width="760" height="605" frameX="0" frameY="-8" frameWidth="777" frameHeight="613" />
+</TextureAtlas>

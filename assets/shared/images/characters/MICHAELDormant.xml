@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MICHAELDormant.png">
+<SubTexture name="michaeldown0000" x="1529" y="553" width="280" height="266" frameX="-23" frameY="-45" frameWidth="326" frameHeight="330" />
+<SubTexture name="michaeldown0001" x="1529" y="283" width="283" height="270" frameX="-20" frameY="-43" frameWidth="326" frameHeight="330" />
+<SubTexture name="michaeldown0002" x="1209" y="978" width="292" height="283" frameX="-13" frameY="-38" frameWidth="326" frameHeight="330" />
+<SubTexture name="michaeldown0003" x="1529" y="0" width="295" height="283" frameX="-11" frameY="-38" frameWidth="326" frameHeight="330" />
+<SubTexture name="michaelidle0000" x="309" y="1265" width="309" height="278" frameX="-12" frameY="-37" frameWidth="331" frameHeight="331" />
+<SubTexture name="michaelidle0001" x="0" y="1265" width="309" height="282" frameX="-13" frameY="-35" frameWidth="331" frameHeight="331" />
+<SubTexture name="michaelidle0002" x="1214" y="293" width="305" height="287" frameX="-16" frameY="-33" frameWidth="331" frameHeight="331" />
+<SubTexture name="michaelidle0003" x="910" y="978" width="299" height="286" frameX="-23" frameY="-35" frameWidth="331" frameHeight="331" />
+<SubTexture name="michaelidle0004" x="919" y="315" width="295" height="286" frameX="-26" frameY="-36" frameWidth="331" frameHeight="331" />
+<SubTexture name="michaelleft0000" x="0" y="678" width="325" height="300" frameX="-51" frameY="-50" frameWidth="405" frameHeight="359" />
+<SubTexture name="michaelleft0001" x="325" y="678" width="324" height="300" frameX="-54" frameY="-50" frameWidth="405" frameHeight="359" />
+<SubTexture name="michaelleft0002" x="649" y="678" width="317" height="294" frameX="-80" frameY="-56" frameWidth="405" frameHeight="359" />
+<SubTexture name="michaelleft0003" x="1214" y="0" width="315" height="293" frameX="-83" frameY="-57" frameWidth="405" frameHeight="359" />
+<SubTexture name="michaelright0000" x="1214" y="580" width="314" height="287" frameX="-15" frameY="-23" frameWidth="338" frameHeight="319" />
+<SubTexture name="michaelright0001" x="0" y="978" width="313" height="287" frameX="-15" frameY="-23" frameWidth="338" frameHeight="319" />
+<SubTexture name="michaelright0002" x="313" y="978" width="299" height="287" frameX="-20" frameY="-23" frameWidth="338" frameHeight="319" />
+<SubTexture name="michaelright0003" x="612" y="978" width="298" height="287" frameX="-20" frameY="-23" frameWidth="338" frameHeight="319" />
+<SubTexture name="michaelup0000" x="0" y="0" width="297" height="353" frameX="-46" frameY="-44" frameWidth="361" frameHeight="408" />
+<SubTexture name="michaelup0001" x="297" y="0" width="295" height="347" frameX="-50" frameY="-47" frameWidth="361" frameHeight="408" />
+<SubTexture name="michaelup0002" x="335" y="353" width="295" height="319" frameX="-52" frameY="-65" frameWidth="361" frameHeight="408" />
+<SubTexture name="michaelup0003" x="919" y="0" width="295" height="315" frameX="-51" frameY="-67" frameWidth="361" frameHeight="408" />
+<SubTexture name="missdown0000" x="0" y="1547" width="312" height="208" frameX="0" frameY="-7" frameWidth="312" frameHeight="215" />
+<SubTexture name="missdown0001" x="1212" y="1265" width="305" height="215" frameX="-4" frameY="0" frameWidth="312" frameHeight="215" />
+<SubTexture name="missleft0000" x="1529" y="819" width="261" height="262" frameX="0" frameY="0" frameWidth="261" frameHeight="262" />
+<SubTexture name="missleft0001" x="630" y="353" width="255" height="262" frameX="-6" frameY="0" frameWidth="261" frameHeight="262" />
+<SubTexture name="missright0000" x="618" y="1265" width="300" height="248" frameX="0" frameY="0" frameWidth="300" frameHeight="248" />
+<SubTexture name="missright0001" x="918" y="1265" width="294" height="248" frameX="0" frameY="0" frameWidth="300" frameHeight="248" />
+<SubTexture name="missup0000" x="592" y="0" width="327" height="330" frameX="-4" frameY="0" frameWidth="335" frameHeight="330" />
+<SubTexture name="missup0001" x="0" y="353" width="335" height="325" frameX="0" frameY="-5" frameWidth="335" frameHeight="330" />
+</TextureAtlas>

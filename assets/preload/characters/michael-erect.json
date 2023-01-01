@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "michael IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				56
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "michael LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				38
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "michael RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "michael DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				65
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "michael UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				105
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "michael SHOOT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MICHAELsuper",
+	"position": [
+		-40,
+		140
+	],
+	"healthicon": "erectmichael",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		180,
+		0
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

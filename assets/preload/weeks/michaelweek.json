@@ -1,0 +1,41 @@
+{
+	"storyName": "get the fuck out of my house",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"goodbye",
+			"michael",
+			[
+				6,
+				93,
+				233
+			]
+		],
+		[
+			"richbag",
+			"erectmichael",
+			[
+				255,
+				215,
+				35
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "michael week",
+	"hiddenUntilUnlocked": false
+}
